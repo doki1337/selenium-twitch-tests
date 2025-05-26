@@ -1,2 +1,3 @@
-# selenium-twitch-tests
-selenium twitch tests
+- Тестує сайт twitch.tv
+- 3 тест-кейси: головна, пошук, мова
+- Кожен має ≥10 кроків
